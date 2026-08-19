@@ -1,0 +1,5 @@
+Hello world! This is the initial text in the dummy file.
+Successfully restored the permissions of the file and now writing to the file again.
+Successfully restored the permissions of the file and now writing to the file again.
+Successfully restored the permissions of the file and now writing to the file again.
+Successfully restored the permissions of the file and now writing to the file again.
