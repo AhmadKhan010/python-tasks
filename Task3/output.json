@@ -1,0 +1,110 @@
+{
+   "teacher": [
+      {
+         "name": "Alice",
+         "age": 25,
+         "occupation": "teacher"
+      },
+      {
+         "name": "Charlie",
+         "age": 35,
+         "occupation": "teacher"
+      },
+      {
+         "name": "Henry",
+         "age": 27,
+         "occupation": "teacher"
+      },
+      {
+         "name": "Lucas",
+         "age": 32,
+         "occupation": "teacher"
+      },
+      {
+         "name": "Peter",
+         "age": 31,
+         "occupation": "teacher"
+      },
+      {
+         "name": "Tina",
+         "age": 28,
+         "occupation": "teacher"
+      }
+   ],
+   "programmer": [
+      {
+         "name": "Bob",
+         "age": 30,
+         "occupation": "programmer"
+      },
+      {
+         "name": "Frank",
+         "age": 31,
+         "occupation": "programmer"
+      },
+      {
+         "name": "Jack",
+         "age": 26,
+         "occupation": "programmer"
+      },
+      {
+         "name": "Nathan",
+         "age": 29,
+         "occupation": "programmer"
+      },
+      {
+         "name": "Rachel",
+         "age": 32,
+         "occupation": "programmer"
+      }
+   ],
+   "doctor": [
+      {
+         "name": "David",
+         "age": 28,
+         "occupation": "doctor"
+      },
+      {
+         "name": "Grace",
+         "age": 29,
+         "occupation": "doctor"
+      },
+      {
+         "name": "Katherine",
+         "age": 34,
+         "occupation": "doctor"
+      },
+      {
+         "name": "Olivia",
+         "age": 30,
+         "occupation": "doctor"
+      },
+      {
+         "name": "Samuel",
+         "age": 27,
+         "occupation": "doctor"
+      }
+   ],
+   "engineer": [
+      {
+         "name": "Emily",
+         "age": 24,
+         "occupation": "engineer"
+      },
+      {
+         "name": "Isabelle",
+         "age": 33,
+         "occupation": "engineer"
+      },
+      {
+         "name": "Maggie",
+         "age": 23,
+         "occupation": "engineer"
+      },
+      {
+         "name": "Quincy",
+         "age": 26,
+         "occupation": "engineer"
+      }
+   ]
+}
