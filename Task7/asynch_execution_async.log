@@ -1,0 +1,10 @@
+2026-08-20 13:48:24,551 - INFO: Starting asynchronous task for range 1-50800000 by divisor 34113
+2026-08-20 13:48:24,554 - INFO: Starting asynchronous task for range 1-100052 by divisor 3210
+2026-08-20 13:48:24,554 - INFO: Starting asynchronous task for range 1-20000 by divisor 5
+2026-08-20 13:48:24,555 - INFO: Starting asynchronous task for range 1-100 by divisor 0
+2026-08-20 13:48:24,555 - ERROR: ZeroDivisionError: Divisor cannot be 0.
+2026-08-20 13:48:24,555 - ERROR: TypeError: Both range_limit (test) and divisor (2) must be integers.
+2026-08-20 13:48:24,644 - INFO: Completed asynchronous task for divisor 3210. Found 31 numbers.
+2026-08-20 13:48:28,487 - INFO: Completed asynchronous task for divisor 34113. Found 1489 numbers.
+2026-08-20 13:48:28,556 - INFO: Completed asynchronous task for divisor 5. Found 4000 numbers.
+2026-08-20 13:48:28,559 - INFO: Total time taken (Asynchronous): 4.0077 seconds

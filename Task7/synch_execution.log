@@ -1,0 +1,10 @@
+2026-08-20 13:48:06,457 - INFO: Starting synchronous task for range 1-50800000 by divisor 34113
+2026-08-20 13:48:10,313 - INFO: Completed synchronous task for divisor 34113. Found 1489 numbers.
+2026-08-20 13:48:10,314 - INFO: Starting synchronous task for range 1-100052 by divisor 3210
+2026-08-20 13:48:10,330 - INFO: Completed synchronous task for divisor 3210. Found 31 numbers.
+2026-08-20 13:48:10,330 - INFO: Starting synchronous task for range 1-20000 by divisor 5
+2026-08-20 13:48:10,333 - INFO: Completed synchronous task for divisor 5. Found 4000 numbers.
+2026-08-20 13:48:10,334 - INFO: Starting synchronous task for range 1-100 by divisor 0
+2026-08-20 13:48:10,334 - ERROR: ZeroDivisionError: Divisor cannot be 0.
+2026-08-20 13:48:10,334 - ERROR: TypeError: Both range_limit (pair) and divisor (3) must be integers.
+2026-08-20 13:48:10,335 - INFO: Total time taken (Synchronous): 3.8777 seconds
