@@ -32,17 +32,26 @@ def calculate_statistics(file_path):
         p99_99 = np.percentile(data_array, 99.99)
         p99_999 = np.percentile(data_array, 99.999)
 
-        # 4. Print results
-        print(f"\nStatistics for {file_path}\n")
-        print(f"Mean:                {mean_val:.4f}")
-        print(f"Median:              {median_val:.4f}")
-        print(f"Max:                 {max_val:.4f}")
-        print(f"Min:                 {min_val:.4f}")
-        print(f"Standard Deviation:  {std_dev:.4f}")
-        print(f"99th Percentile:     {p99:.4f}")
-        print(f"99.9th Percentile:   {p99_9:.4f}")
-        print(f"99.99th Percentile:  {p99_99:.4f}")
-        print(f"99.999th Percentile: {p99_999:.4f}")
+        # 4. Print and write results
+        output_string = (
+            f"\nStatistics for {file_path}\n\n"
+            f"Mean:         {mean_val:.4f}\n"
+            f"Median:       {median_val:.4f}\n"
+            f"Max:          {max_val:.4f}\n"
+            f"Min:          {min_val:.4f}\n"
+            f"Standard Deviation:  {std_dev:.4f}\n"
+            f"99th Percentile:     {p99:.4f}\n"
+            f"99.9th Percentile:   {p99_9:.4f}\n"
+            f"99.99th Percentile:  {p99_99:.4f}\n"
+            f"99.999th Percentile: {p99_999:.4f}\n"
+        )
+        
+        # Print to terminal
+        print(output_string)
+        
+        # Write to file
+        with open("output.txt", "w") as file:
+            file.write(output_string)
 
     # 5. Error Handling
     except FileNotFoundError:
