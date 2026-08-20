@@ -1,0 +1,15 @@
+System Parameters
+Byte order: little
+Core: 10
+Model name: 12th Gen Intel(R) Core(TM) i5-1235U
+CPU max Frequency: 4400.0000
+CPU min frequency: 400.0000
+Virtualization: VT-x
+L1i cache size: 576 KiB (10 instances)
+L1d cache size: 352 KiB (10 instances)
+L2 cache size: 6.5 MiB (4 instances)
+L3 cache size: 12 MiB (1 instance)
+Thread(s) per core: 2
+Distributor ID: Ubuntu
+Distributor Description: Ubuntu 26.04 LTS
+Distributor codename: resolute
