@@ -1,0 +1,12 @@
+[
+  { "jsonrpc": "2.0", "method": "message-1" },
+  { "jsonrpc": "2.0", "method": "message-2" },
+  { "jsonrpc": "2.0", "method": "message-3" },
+  { "jsonrpc": "2.0", "method": "message-4" },
+  { "jsonrpc": "2.0", "method": "message-5" },
+  { "jsonrpc": "2.0", "method": "message-6" },
+  { "jsonrpc": "2.0", "method": "message-7" },
+  { "jsonrpc": "2.0", "method": "message-8" },
+  { "jsonrpc": "2.0", "method": "message-9" },
+  { "jsonrpc": "2.0", "method": "message-10" }
+]
